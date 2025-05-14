@@ -1,4 +1,5 @@
-<img>https://i.ibb.co/84xKcwrW/nerox-banner-gh.png</img>
+
+![](https://github.com/user-attachments/assets/2e98e658-4aed-49d4-9248-7d46d6608444)
 
 <h1 align="center">👋 Willkommen bei NeroX Service</h1>
 
