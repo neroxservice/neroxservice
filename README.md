@@ -29,7 +29,7 @@ Auf Anfragen der Community erstelle ich auch Kleidungen, Custom Maps oder debadg
 | Projekt | Beschreibung | Status |
 |--------|--------------|--------|
 | [`nx_EmergencyResponse`](https://github.com/neroxservice/nx_emergencyresponse) | Notruf-System mit Zufallslogik & intelligentem Spawning | 🟢 Aktiv |
-| [`npc_mechanic_jobs`](https://github.com/neroxservice/npc_mechanic_jobs) | NPC-Mechaniker-Aufträge mit Zufallslocation & Callback-System | 🚧 In Entwicklung |
+| [`npc_mechanic_jobs`](https://github.com/neroxservice/npc_mechanic_jobs) | NPC-Mechaniker-Aufträge mit Zufallslocation & Callback-System | 🟢 Aktiv |
 | Weitere folgen... | | 🚧 In Entwicklung |
 
 ---
