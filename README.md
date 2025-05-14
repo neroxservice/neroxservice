@@ -8,8 +8,10 @@
 
 ## 🚀 Über mich
 
-Ich bin leidenschaftlicher Lua-Entwickler mit Fokus auf **QBCore-Frameworks**.  
+Ich bin leidenschaftlicher Entwickler mit Fokus auf **QBCore-Frameworks**.  
 Meine Mission ist es, **cleane, effiziente und erweiterbare** Skripte für die FiveM-Community bereitzustellen – ob für RP-Server oder Speziallösungen.
+
+Auf Anfragen der Community erstelle ich auch Kleidungen, Custom Maps oder debadge Fahrzeuge.
 
 ---
 
@@ -46,5 +48,5 @@ Wenn dir meine Arbeit gefällt, hinterlasse gern ein ⭐ bei den Repos – so ze
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nx-scripts?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/followers/neroxservice?label=Follow&style=social" />
 </p>
