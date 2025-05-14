@@ -1,4 +1,6 @@
-<h1 align="center">👋 Willkommen bei nx-scripts</h1>
+<img>https://i.ibb.co/84xKcwrW/nerox-banner-gh.png</img>
+
+<h1 align="center">👋 Willkommen bei NeroX Service</h1>
 
 <p align="center">
   <b>Qualitative FiveM-Skripte</b> für QBCore mit Fokus auf Performance, Realismus & einfache Integration.
