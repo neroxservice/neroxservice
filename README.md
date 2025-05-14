@@ -19,7 +19,7 @@ Auf Anfragen der Community erstelle ich auch Kleidungen, Custom Maps oder debadg
 
 - ✨ Premium-Features für Realismus und Immersion
 - 🧠 Intelligente Systeme (z. B. dynamische Notrufe, automatische Bußgeldlogik)
-- 📦 Einfache Integration mit beliebten Systemen wie `tgg-billing` oder `ox_inventory`
+- 📦 Einfache Integration mit beliebten Systemen wie `tgg-billing` oder `qs-inventory & mehr`
 - 🛠️ API-ready & GitHub-Versionserkennung
 
 ---
