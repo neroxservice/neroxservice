@@ -34,6 +34,7 @@ Auf Anfragen der Community erstelle ich auch Kleidungen, Custom Maps oder debadg
 | [`nx_EmergencyResponse`](https://github.com/neroxservice/nx_emergencyresponse) | Notruf-System mit Zufallslogik & intelligentem Spawning | 🟢 Aktiv |
 | [`npc_mechanic_jobs`](https://github.com/neroxservice/npc_mechanic_jobs) | NPC-Mechaniker-Aufträge mit Zufallslocation & Callback-System | 🟢 Aktiv |
 | [`nx_weste`](https://github.com/neroxservice/nx_weste) | QBCore Westen Script | 🟢 Aktiv |
+| [`nx_bettersync`](https://github.com/neroxservice/nx_bettersync) | Fivem Sync Script für besseren Sync | 🚧 In Entwicklung |
 | Weitere folgen... | | 🚧 In Entwicklung |
 
 ---
