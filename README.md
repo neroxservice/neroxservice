@@ -76,7 +76,7 @@ format-on-save, and a self-updating Windows installer.
 | [`nx_EmergencyResponse`](https://github.com/neroxservice/nx_emergencyresponse) | Emergency call system with randomized logic & smart spawning | 🟢 Active |
 | [`npc_mechanic_jobs`](https://github.com/neroxservice/npc_mechanic_jobs) | NPC mechanic job system with randomized locations & callbacks | 🟢 Active |
 | [`nx_weste`](https://github.com/neroxservice/nx_weste) | QBCore vest/armor script | 🟢 Active | 
-| [`nxSleepV2`]([https://github.com/neroxservice/nx_weste](https://github.com/neroxservice/nxSleepV2)) | ESX Sex & Sleep System + Pregnancy and Birth | 🟢 Active | 
+| [`nxSleepV2`](https://github.com/neroxservice/nxSleepV2) | ESX Sex & Sleep System + Pregnancy and Birth | 🟢 Active | 
 | [`nx_bettersync`](https://github.com/neroxservice/nx_bettersync) | FiveM sync script for smoother entity sync | 🚧 In progress |
 | More coming... | | 🚧 In progress |
 
