@@ -78,6 +78,7 @@ format-on-save, and a self-updating Windows installer.
 | [`nx_weste`](https://github.com/neroxservice/nx_weste) | QBCore vest/armor script | 🟢 Active | 
 | [`nxSleepV2`](https://github.com/neroxservice/nxSleepV2) | ESX Sex & Sleep System + Pregnancy and Birth | 🟢 Active | 
 | [`nx_bettersync`](https://github.com/neroxservice/nx_bettersync) | FiveM sync script for smoother entity sync | 🚧 In progress |
+| [`nxAnimation`](https://github.com/neroxservice/nx_animmenu) | FiveM Animationsmenu +4000 Emotes | 🚧 In progress |
 | More coming... | | 🚧 In progress |
 
 ---
